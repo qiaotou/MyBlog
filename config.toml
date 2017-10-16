@@ -1,0 +1,8 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Toonter"
+theme = "hyde"
+
+[params]
+    description = "Toonter的个人博客"
+    themeColor = "theme-base-08"
